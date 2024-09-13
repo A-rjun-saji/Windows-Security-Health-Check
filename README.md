@@ -22,3 +22,8 @@ This PowerShell script is designed to perform a comprehensive security health ch
 3. **Navigate to Script Directory**: Change to the directory where the script is located:
    ```powershell
    cd path\to\script\directory
+
+
+Requirements
+PowerShell 5.1 or higher
+Administrative privileges on the Windows system
