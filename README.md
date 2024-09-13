@@ -27,7 +27,7 @@ This PowerShell script is designed to perform a comprehensive security health ch
      ```
      Replace `yourusername` with your GitHub username.
 
-   - **Downloading the Script File**: If you prefer not to use Git, you can download the script file directly from the GitHub repository. Navigate to the [repository page](https://github.com/yourusername/Windows-Security-Health-Check), click on `Code`, then `Download ZIP`. Extract the ZIP file to your preferred directory.
+   - **Downloading the Script File**: If you prefer not to use Git, you can download the script file directly from the GitHub repository. Navigate to the [repository page](https://github.com/arjunsaji618/Windows-Security-Health-Check.git), click on `Code`, then `Download ZIP`. Extract the ZIP file to your preferred directory.
 
 2. **Open PowerShell as Administrator**
 
