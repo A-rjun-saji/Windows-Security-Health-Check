@@ -23,9 +23,9 @@ This PowerShell script is designed to perform a comprehensive security health ch
 
    - **Cloning the Repository**: Cloning creates a local copy of the entire repository, including all versions and history. This is useful for development or frequent updates. To clone the repository, open a terminal or Git Bash and run:
      ```bash
-   (https://github.com/arjunsaji618/Windows-Security-Health-Check.git)
+   [https://github.com/arjunsaji618/Windows-Security-Health-Check.git]
      ```
-     Replace `yourusername` with your GitHub username.
+     
 
    - **Downloading the Script File**: If you prefer not to use Git, you can download the script file directly from the GitHub repository. Navigate to the [repository page](https://github.com/arjunsaji618/Windows-Security-Health-Check.git), click on `Code`, then `Download ZIP`. Extract the ZIP file to your preferred directory.
 
