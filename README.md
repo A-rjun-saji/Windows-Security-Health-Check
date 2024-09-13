@@ -1,11 +1,15 @@
-# Windows-Security-Health-Check
- A PowerShell script for performing comprehensive security health checks on Windows systems
 
+
+# Windows-Security-Health-Check
+
+A PowerShell script for performing comprehensive security health checks on Windows systems.
 
 ## Objective
+
 This PowerShell script is designed to perform a comprehensive security health check on Windows systems. It gathers crucial security-related information and generates a detailed report that can be used for auditing and improving system security.
 
 ## Features
+
 - **Admin Users**: Lists all users with administrative rights.
 - **Running Processes**: Shows currently running processes, including their IDs, CPU usage, and start times.
 - **Firewall Status**: Checks the status of firewall profiles to ensure they are properly configured.
@@ -16,18 +20,16 @@ This PowerShell script is designed to perform a comprehensive security health ch
 - **Disk Encryption Status**: Verifies the encryption status of disks using BitLocker.
 - **Unused Services**: Identifies services that are running but should be disabled, which could pose a security risk.
 
-
 ## **Usage Instructions**
 
 1. **Clone or Download the Repository**
 
    - **Cloning the Repository**: Cloning creates a local copy of the entire repository, including all versions and history. This is useful for development or frequent updates. To clone the repository, open a terminal or Git Bash and run:
      ```bash
-   [https://github.com/arjunsaji618/Windows-Security-Health-Check.git]
+     git clone https://github.com/arjunsaji618/Windows-Security-Health-Check.git
      ```
-     
 
-   - **Downloading the Script File**: If you prefer not to use Git, you can download the script file directly from the GitHub repository. Navigate to the [repository page](https://github.com/arjunsaji618/Windows-Security-Health-Check.git), click on `Code`, then `Download ZIP`. Extract the ZIP file to your preferred directory.
+   - **Downloading the Script File**: If you prefer not to use Git, you can download the script file directly from the GitHub repository. Navigate to the [repository page](https://github.com/arjunsaji618/Windows-Security-Health-Check), click on `Code`, then `Download ZIP`. Extract the ZIP file to your preferred directory.
 
 2. **Open PowerShell as Administrator**
 
@@ -70,12 +72,10 @@ This PowerShell script is designed to perform a comprehensive security health ch
 
    - **Updating the Script**: To incorporate any updates or improvements to the script, repeat the cloning or downloading process and replace the old script with the new version.
 
+   **Remember to update the file path in your script before execution. Modify the file path within the code to ensure it saves to the correct location.**
 
+## Requirements
 
+- PowerShell 5.1 or higher
+- Administrative privileges on the Windows system
 
-**Remember to update the file path in your script before execution. Modify the file path within the code to ensure it saves to the correct location.**
-
-
-Requirements
-PowerShell 5.1 or higher
-Administrative privileges on the Windows system
